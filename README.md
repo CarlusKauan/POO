@@ -1,2 +1,2 @@
 # POO
-Programação Orientado a Objetos - Java
+Programação Orientado a Objetos em Java
